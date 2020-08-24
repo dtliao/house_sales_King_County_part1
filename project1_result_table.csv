@@ -1,10 +1,10 @@
 ,R2 Score,RMSE,Optimal Parameter
-KNN Regressor,0.794835,174379,n-neighbors = 7
-Simple Linear Regression,0.710076,213052,None
-Ridge Regression,0.710088,213151,alpha = 120
-Lasso Regression,0.710071,213061,alpha = 120
-Polynomial Regression,0.819666,160304,degree = 2
-Linear Support Vector Regressor,0.668441,229354,C = 9000
-SVM- Kernal (RBF) Regressor,0.470828,275312,"C = 5000, gamma = 0.001"
-SVM- Kernal (Poly) Regressor,0.702086,205062,"C = 5000, degree = 3"
-SVM- Kernal (Linear) Regressor,0.66886,229096,C = 5000
+Polynomial Regression,0.822081,152220,degree = 2
+KNN Regressor,0.790696,165101,n-neighbors = 7
+SVM- Kernal (Poly) Regressor,0.713549,193146,"C = 5000, degree = 3"
+Ridge Regression,0.710942,194023,alpha = 120
+Simple Linear Regression,0.710877,194045,None
+Lasso Regression,0.710862,194050,alpha = 120
+SVM- Kernal (Linear) Regressor,0.670674,207097,C = 5000
+Linear Support Vector Regressor,0.670477,207159,C = 9000
+SVM- Kernal (RBF) Regressor,0.472081,262207,"C = 5000, gamma = 0.001"
